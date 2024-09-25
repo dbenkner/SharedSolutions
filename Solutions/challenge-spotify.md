@@ -7,3 +7,4 @@ The shared solutions:
 | No. | Solution | Language | Author |
 |-----|----------|----------|--------|
 | 1 | [spotify-client](https://github.com/jainmohit2001/spotify-client) | TypeScript | [jainmohit2001](https://github.com/jainmohit2001) |
+| 2 | [spotify-client](https://github.com/dbenkner/spotify-client)| Angular | [dbenkner](https://github.com/dbenkner)
